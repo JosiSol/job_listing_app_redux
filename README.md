@@ -129,6 +129,8 @@ Simple Loading Page
 Opportunities Page (Not as slow as shown here)
 <img width="1440" height="462" alt="Screenshot 2025-07-26 at 12 14 13 in the afternoon" src="https://github.com/user-attachments/assets/dd6c246b-1a2c-4f04-83c7-06343713794b" />
 
+Error Page
+<img width="1440" height="770" alt="Screenshot 2025-07-26 at 12 30 35 in the afternoon" src="https://github.com/user-attachments/assets/a4a294e4-4717-4bcf-9797-0c9f8a702660" />
 
 Applicant Page
 <img width="1440" height="774" alt="Screenshot 2025-07-26 at 12 14 28 in the afternoon" src="https://github.com/user-attachments/assets/6c6053bb-f659-4337-8547-66a784a7331c" />
