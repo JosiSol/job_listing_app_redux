@@ -63,7 +63,23 @@ export default function JobCardPage() {
         ? `Request failed with status ${error.status}`
         : "Something went wrong. Please try again.";
 
-    return <div className="alert alert-error">{errorMessage}</div>;
+    return (
+      <div className="flex flex-col items-center justify-center min-h-screen p-4">
+        <div className="alert alert-error text-center mb-4 w-full max-w-sm p-5">
+          {errorMessage}
+        </div>
+        <button
+          className="btn btn-error w-full max-w-sm"
+          onClick={() => {
+            setTimeout(() => {
+              window.location.reload();
+            }, 1000);
+          }}
+        >
+          Reload Page
+        </button>
+      </div>
+    );
   }
 
   return (
