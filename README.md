@@ -126,7 +126,7 @@ The application is designed to work with the live API, but you can:
 Simple Loading Page 
 ![Screen Recording 2025-07-26 at 12 09 37 in the afternoon](https://github.com/user-attachments/assets/44cdc452-17fa-46f8-90a8-a2b70b379b60)
 
-Opportunities Page
+Opportunities Page (Not as slow as shown here)
 <img width="1440" height="462" alt="Screenshot 2025-07-26 at 12 14 13 in the afternoon" src="https://github.com/user-attachments/assets/dd6c246b-1a2c-4f04-83c7-06343713794b" />
 
 
