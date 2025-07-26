@@ -39,7 +39,7 @@ Make sure you have Node.js installed on your machine (version 18 or higher recom
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JosiSol/job_listing_app_redux
 cd job_listing_app
 ```
 
