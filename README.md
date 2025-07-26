@@ -124,8 +124,7 @@ The application is designed to work with the live API, but you can:
 ## 📸 Preview
 
 Simple Loading Page 
-https://github.com/user-attachments/assets/83d49ba6-0bb3-4ede-97ff-565e8c4432d6
-
+![Screen Recording 2025-07-26 at 12 09 37 in the afternoon](https://github.com/user-attachments/assets/44cdc452-17fa-46f8-90a8-a2b70b379b60)
 
 
 
