@@ -81,7 +81,6 @@ job_listing_app/
 │   ├── data.ts                 # TypeScript type definitions
 │   ├── layout.tsx              # Root layout with Redux provider
 │   └── page.tsx                # Home page
-├── public/                     # Static assets
 ├── eslint.config.mjs          # ESLint configuration
 ├── next.config.ts             # Next.js configuration
 ├── tailwind.config.js         # Tailwind CSS configuration
@@ -122,15 +121,13 @@ The application is designed to work with the live API, but you can:
 2. Extend the API slice to include additional endpoints
 3. Customize the data transformation logic
 
-### Styling
-
-The application uses Tailwind CSS and DaisyUI for styling. You can customize the appearance by:
-
-- Modifying the Tailwind classes in components
-- Updating the global styles in `app/globals.css`
-- Configuring Tailwind in `tailwind.config.js`
-
 ## 📸 Preview
+
+Simple Loading Page 
+https://github.com/user-attachments/assets/83d49ba6-0bb3-4ede-97ff-565e8c4432d6
+
+
+
 
 Opportunities Page
 <img width="1440" height="774" alt="Screenshot 2025-07-24 at 4 49 54 in the afternoon" src="https://github.com/user-attachments/assets/52d4e593-3c22-4872-9771-f08d7cb1fea9" />
